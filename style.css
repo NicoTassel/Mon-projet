@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header{
+    background-color: blue;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+header a{
+    color:white;
+    text-decoration: none;
+}
+
+header li{
+    display:inline-block;
+    margin-left: 15px;
+    margin-bottom:15px;
+    width:32%;
+    text-align:center;
+}
+
+
+    
+    
