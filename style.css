@@ -1,3 +1,7 @@
+body {
+	background-image:url(images/fond.png);
+}
+
 h1, h2{
     font-family: 'Ubuntu', sans-serif;
 }
@@ -6,7 +10,7 @@ li{
     font-family: 'Ubuntu', sans-serif;
 }
 
-li a:hover{
+li a:hover {
     color:#174264;
 }
 
@@ -36,7 +40,7 @@ header a:hover {
     transition-duration:0.5s;
 }
 
-header li{
+header li {
     display:inline-block;
     margin-left: 15px;
     margin-bottom:15px;
@@ -44,6 +48,17 @@ header li{
     text-align:center;
 }
 
+main {
+    max-width:500px;
+    margin:auto;
+    margin-top:100px;
+    padding:20px;
+    border-radius:20px; 
+}
 
+header.active {
+    color:#7f7e84;
+}
+    
     
     
