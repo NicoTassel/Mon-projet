@@ -15,7 +15,7 @@ li a:hover {
 }
 
 p{
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 header{
@@ -50,14 +50,14 @@ header li {
 }
 
 main {
-    max-width:700px;
+    max-width:900px;
     margin:auto;
     margin-top:50px;
     padding:20px;
-    width: 100%;
-     
+    width: 100%;    
 }
 
+    
 footer li {
     color:white;
     display:inline-block;
@@ -75,13 +75,11 @@ footer {
 
 footer img {
     width:35px;
-    height:35px;
-    
-        
-    
+    height:35px;        
 }
 
-div{
+
+div {
     text-align: center;
 }
 
@@ -103,7 +101,26 @@ h2{
     height:150px;
     border-radius: 20px;
 }
-/* .cercle-competence {
+
+.icones img {
+    width: 150px;
+    height:150px;
+}
+
+.reseauxsociaux img {
+    marging-left:20px;
+    margin-right:20px;
+    padding-left: 100px;
+    width: 150px;
+    height:150px;
+}
+ 
+.contact img {
+    width:40px;
+    height:40px;
+}
+
+/* .cercle-competence 
     height:150px;
     background-color:blue;
     border-radius:50px;
